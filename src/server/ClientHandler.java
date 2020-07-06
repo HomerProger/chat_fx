@@ -11,6 +11,7 @@ public class ClientHandler {
     DataInputStream in;
     DataOutputStream out;
 
+
     private String nick;
     private String login;
 

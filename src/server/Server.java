@@ -18,6 +18,7 @@ public class Server {
         return authService;
     }
 
+
     public Server() {
         clients = new Vector<>();
         authService = new SimpleAuthService();
